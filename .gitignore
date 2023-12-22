@@ -1,0 +1,64 @@
+# Unreal Engine generated files
+Intermediate/
+Saved/
+DerivedDataCache/
+*.sln
+*.suo
+*.xcworkspace/
+*.ipch/
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Compiled binaries and build files
+Binaries/
+Build/
+
+# Ignore log files
+*.log
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+*.orig
+
+# Ignore autosave files
+*.autosave
+
+# Ignore compiled shader code
+DerivedDataCache/
+
+# Ignore macOS folder attributes
+.DS_Store
+
+# Ignore Visual Studio Code workspace settings (if you're using VSCode)
+.vscode/
+
+# Ignore macOS resource fork files
+._*
+
+# Ignore compiled UE5 editor plugins
+Plugins/*/Binaries/
+
+# Ignore certain UE5 metadata files
+*.uprojectdirs
+*.uprojectinsights
+
+# Ignore compiled UE5 game plugins
+Game/Plugins/*/Binaries/
+
+# Ignore Android generated files
+*.apk
+*.aab
+*.apk.*
+*.obb
+
+# Ignore iOS generated files
+*.ipa
+*.xcarchive
+*.dSYM.zip
+
+# Ignore Linux build files
+LinuxNoEditor/
